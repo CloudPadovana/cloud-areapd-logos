@@ -13,7 +13,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="logoUsrPwd.svg"
    inkscape:export-filename="/home/andreett/Pictures/logo-cloud-areapd/LogInIcon2.png"
    inkscape:export-xdpi="12"
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.73952369"
-     inkscape:cx="234.26278"
+     inkscape:zoom="0.49127573"
+     inkscape:cx="58.577655"
      inkscape:cy="526.18109"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1634"
-     inkscape:window-height="893"
-     inkscape:window-x="72"
-     inkscape:window-y="70"
+     inkscape:window-width="1250"
+     inkscape:window-height="739"
+     inkscape:window-x="85"
+     inkscape:window-y="124"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -63,7 +63,7 @@
        transform="matrix(0.52941176,0,0,0.52941176,201.17647,100.52338)">
       <path
          transform="translate(-10,-20)"
-         d="m 480,472.36218 a 170,140 0 0 1 -170,140 170,140 0 0 1 -170,-140 170,140 0 0 1 170,-140 170,140 0 0 1 170,140 z"
+         d="m 480,472.36218 c 0,77.31987 -76.11159,140 -170,140 -93.88841,0 -170,-62.68013 -170,-140 0,-77.31986 76.11159,-140 170,-140 93.88841,0 170,62.68014 170,140 z"
          sodipodi:ry="140"
          sodipodi:rx="170"
          sodipodi:cy="472.36218"
@@ -73,7 +73,7 @@
          sodipodi:type="arc" />
       <path
          transform="translate(0,30)"
-         d="m 460,202.36218 a 160,130 0 0 1 -160,130 160,130 0 0 1 -160,-130 A 160,130 0 0 1 300,72.362183 160,130 0 0 1 460,202.36218 Z"
+         d="m 460,202.36218 c 0,71.79702 -71.63444,130 -160,130 -88.36556,0 -160,-58.20298 -160,-130 0,-71.79701 71.63444,-129.999997 160,-129.999997 88.36556,0 160,58.202987 160,129.999997 z"
          sodipodi:ry="130"
          sodipodi:rx="160"
          sodipodi:cy="202.36218"
@@ -83,7 +83,7 @@
          sodipodi:type="arc" />
       <path
          transform="translate(20,-580)"
-         d="m 380,812.36218 a 100,100 0 0 1 -100,100 100,100 0 0 1 -100,-100 100,100 0 0 1 100,-100 100,100 0 0 1 100,100 z"
+         d="m 380,812.36218 c 0,55.22848 -44.77153,100 -100,100 -55.22847,0 -100,-44.77152 -100,-100 0,-55.22847 44.77153,-100 100,-100 55.22847,0 100,44.77153 100,100 z"
          sodipodi:ry="100"
          sodipodi:rx="100"
          sodipodi:cy="812.36218"
@@ -100,51 +100,89 @@
        inkscape:export-xdpi="12"
        inkscape:export-ydpi="12" />
     <g
-       id="g5106">
+       id="g3045">
       <rect
-         y="615.91663"
-         x="364.62332"
+         y="552.36218"
+         x="320"
          height="60"
          width="280"
          id="rect3784"
-         style="fill:#ffffff;fill-opacity:1;stroke:#006418;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.5;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#006418;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.5;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text3788"
-         y="668.08661"
-         x="36.728905"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;image-rendering:auto"
+         y="592.36218"
+         x="80"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="668.08661"
-           x="36.728905"
+           y="592.36218"
+           x="80"
            id="tspan3790"
-           sodipodi:role="line"
-           style="font-size:60px">Username</tspan></text>
+           sodipodi:role="line">Username</tspan></text>
     </g>
     <g
-       id="g5111">
+       id="g3050">
       <rect
-         y="733.49548"
-         x="364.62332"
+         y="652.36218"
+         x="320"
          height="60"
          width="280"
          id="rect3786"
-         style="fill:#ffffff;fill-opacity:1;stroke:#006418;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#006418;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text3792"
-         y="770.79102"
-         x="35.376682"
-         style="font-style:normal;font-weight:normal;font-size:60px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         y="692.36218"
+         x="80"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="770.79102"
-           x="35.376682"
+           y="692.36218"
+           x="80"
            id="tspan3794"
            sodipodi:role="line">Password</tspan></text>
     </g>
     <g
-       id="g3411"
-       transform="translate(-6.7611086,59.497756)">
+       id="g3033"
+       transform="translate(-30,-80)">
+      <g
+         id="g3026">
+        <rect
+           style="fill:#64e146;fill-opacity:0.66666667;stroke:#006418;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3796"
+           width="220"
+           height="60"
+           x="380"
+           y="832.36218" />
+      </g>
+      <g
+         id="g3029">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="430"
+           y="872.36218"
+           id="text3798"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3800"
+             x="430"
+             y="872.36218">Sign in</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:62.33958817px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#005200;fill-opacity:1;stroke:none;font-family:Sans"
+       x="64.468468"
+       y="735.06964"
+       id="text3802"
+       sodipodi:linespacing="125%"
+       transform="scale(0.92816306,1.0773969)"><tspan
+         sodipodi:role="line"
+         id="tspan3804"
+         x="64.468468"
+         y="735.06964">Register</tspan></text>
+    <g
+       id="g3411">
       <rect
          y="412.36218"
          x="40"
@@ -157,9 +195,9 @@
          id="text3806"
          y="492.36218"
          x="60"
-         style="font-style:normal;font-weight:normal;font-size:80px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#006d00;fill-opacity:1;stroke:none"
+         style="font-size:70.19709015px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006d00;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           style="font-size:80px;fill:#006d00;fill-opacity:1"
+           style="fill:#006d00;fill-opacity:1"
            y="492.36218"
            x="60"
            id="tspan3808"
